@@ -1,0 +1,5 @@
+.git
+.gitignore
+.dockerignore
+.*.swp
+__pycache__
